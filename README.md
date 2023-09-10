@@ -1,4 +1,4 @@
-# portfolio website
+# Portfolio Website
 
 Responsive Portfolio Website Project
 Portfolio Website
